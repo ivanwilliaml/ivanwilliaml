@@ -1,228 +1,229 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:06b6d4&height=220&section=header&text=Ivan%20William%20Lianata&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20Student%20%40%20BINUS%20University%20%E2%80%A2%20Aspiring%20App%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
-
-<p align="center">
-  <a href="https://github.com/ivanwilliaml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+BINUS+University;2x+National+Data+Science+Champion+%F0%9F%8F%86;Machine+Learning+%26+Computer+Vision+Builder;COO+%40+BNCC+Kemanggisan+(250%2B+members);Building+things+that+genuinely+reach+people" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ivanwilliaml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ivanwilliam156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ivanwilliaml&label=Profile%20views&color=06b6d4&style=flat-square" alt="Profile views" />
-</p>
-
-### 😊 Who I Am
-
-I learn fastest by **building and competing** — a habit that has led to **two national Data Science titles** so far. Equally comfortable **leading people** and **training models**.
-
-🎓 **Education:** B.Sc. Data Science @ BINUS University — **GPA 3.94 / 4.00** <br/>
-🧑‍💻 **Role:** Chief Operating Officer (Regional Head) @ BNCC Kemanggisan — 250+ members, 7 sub-divisions <br/>
-🔬 **Research:** Co-author — *Random Forest on Imbalanced Data: Default Models vs Hyperparameter Tuning* <br/>
-🏅 **Competing:** Member of **Data Seekers** (BINUS DS competition team, 1 of 12 selected from 28) <br/>
-🛠️ **Tech Focus:** Gradient Boosting, Computer Vision (ConvNeXt), Model Interpretability (SHAP), ML Deployment <br/>
-🤝 **Giving Back:** SASC Scholarship Mentor · Freshmen Leader · Volunteer Math Teacher @ Teach For Indonesia <br/>
-🎯 **Current Mission:** Turning data-driven ideas into real apps on Apple's platforms 🍎
-
----
-
-### 🌟 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚽ Football Match Outcome Prediction</h4>
-      <p><b>🥇 1st Place (National) — Gammafest 2026, IPB University</b></p>
-      <p>Full ML pipeline: decay-weighted feature engineering, Poisson-based <b>LightGBM / XGBoost / CatBoost</b>, simplex blending, pseudo-labeling, and Bayes-optimal score discretization. Iterated on <b>SHAP-driven error analysis</b> to reach #1.</p>
-      <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" /> <img src="https://img.shields.io/badge/XGBoost-1F77B4?style=flat-square" /> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/SHAP-FF6F61?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕵️ Deepfake Liveness Detection</h4>
-      <p><b>🏅 Top 15 of 300+ teams — FindIT Data Analytics 2026</b></p>
-      <p>End-to-end computer-vision pipeline with <b>ConvNeXt + GeM Pooling</b> and EDA-derived per-class augmentation to detect liveness via micro-texture. <b>96.9% test accuracy</b> using Test-Time Augmentation and Out-of-Fold inference.</p>
-      <img src="https://img.shields.io/badge/ConvNeXt-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square" /> <img src="https://img.shields.io/badge/TTA-0EA5E9?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml/placement-and-salary-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=placement-and-salary-app&theme=tokyonight&hide_border=true" alt="placement-and-salary-app" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml/credit-score-prediction-aws">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=credit-score-prediction-aws&theme=tokyonight&hide_border=true" alt="credit-score-prediction-aws" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml/SentimentAnalysis_UsingGranite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=SentimentAnalysis_UsingGranite&theme=tokyonight&hide_border=true" alt="SentimentAnalysis_UsingGranite" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml/mapid-ai-layer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=mapid-ai-layer&theme=tokyonight&hide_border=true" alt="mapid-ai-layer" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  🚀 <b>Live demo:</b> <a href="https://placement-and-salary-app-avsdnomqyvcyaggtaaxqnp.streamlit.app">Student Placement & Salary Predictor</a> — LightGBM / Random Forest, deployed on Streamlit
-</p>
-
----
-
-### 📊 GitHub Metrics
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml">
-        <img src="https://github-readme-stats.vercel.app/api?username=ivanwilliaml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ivan's GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwilliaml&layout=compact&theme=tokyonight&hide_border=true&hide=php,html,css" alt="Ivan's Top Languages" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanwilliaml&theme=tokyonight&hide_border=true" alt="Ivan's Streak Stats" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ivanwilliaml">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanwilliaml&radius=16&hide_border=true&theme=tokyo-night&area=true" alt="Ivan's GitHub Activity Graph" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/ivanwilliaml">
-    <img src="https://github-profile-trophy.vercel.app/?username=ivanwilliaml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ivanwilliaml/ivanwilliaml/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
-
----
-
-### 🚀 Tech Stack & Toolkit
-
-#### 🧠 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-1F77B4?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ConvNeXt](https://img.shields.io/badge/ConvNeXt-Computer_Vision-7C3AED?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter_Tuning-0F5FA6?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-Model_Interpretability-FF6F61?style=for-the-badge)
-![IBM Granite](https://img.shields.io/badge/IBM_Granite-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-#### 📊 Data, Statistics & Analytics
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Hypothesis_Testing-8B5CF6?style=for-the-badge)
-![SAP Analytics Cloud](https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLMs-10B981?style=for-the-badge)
-
-#### ☁️ Deployment, Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### 🍎 Currently Learning
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-#### 🧭 Leadership & Professional
-![Project Management](https://img.shields.io/badge/Project_%26_Event_Management-1E3A8A?style=for-the-badge)
-![Financial Planning](https://img.shields.io/badge/Financial_Planning_%26_Budgeting-0F766E?style=for-the-badge)
-![Scientific Writing](https://img.shields.io/badge/Research_%26_Scientific_Writing-6D28D9?style=for-the-badge)
-![Public Speaking](https://img.shields.io/badge/Public_Speaking-B91C1C?style=for-the-badge)
-![Mentoring](https://img.shields.io/badge/Mentoring-047857?style=for-the-badge)
-
----
-
-### 🏆 Championships & Track Record
-
-#### 🥇 1st Place Wins
-* 🥇 **1st Place (National)** – Data Science Competition, **Gammafest 2026**, IPB University | *Football Match Outcome Prediction*
-* 🥇 **1st Place (National)** – **SHINE 2025** Data Science Competition (Rumpun Day Penalaran), BINUS University
-
-#### 🎖️ Finalist & Top Rankings
-* 🔟 **Top 10 (National)** – Data Science Academy, **COMPFEST 17**, Universitas Indonesia (from 200 teams)
-* 🏅 **Top 15 (National)** – **FindIT 2026** Data Analytics Competition (from 300+ teams) | *Deepfake Liveness Detection*
-* 🏅 **Top 5** – Techfest Data Analytics, HIMTI BINUS
-* 🏅 **Top 10** – Data Clash, Neurontara
-* 🎯 **Semifinalist** – Samsung Solve for Tomorrow 2025
-* 🎯 **Semifinalist** – Makarapreneur Business Plan Competition
-
-#### 🌟 Recognition & Scholarships
-* 🎓 **SASC Scholarship Mentor** – BINUS University (selected from 1,000+ applicants)
-* 🛡️ **Student Ethics Ambassador 2025** – selected by BINUS Research Office
-* 🧪 **Data Seekers** – BINUS Data Science Competition Team (1 of 12 selected from 28)
-
----
-
-### 🧑‍💼 Leadership Highlights
-
-| Role | Organization | Impact |
-|:--|:--|:--|
-| **Chief Operating Officer** (Regional Head) | BNCC Kemanggisan | Runs 7 sub-divisions — 29 management committee & 73 activists; led leadership training for 100+ activists across 4 campuses |
-| **General Treasurer** (Founding Board) | BINUS Bind Career | Built the financial system & budget from scratch for a new research & innovation org |
-| **Person in Charge** | BNCC CSR 2025 — *"Level Up Your Learning Game with AI"* | Led 36-person committee; **5,800 registrants, 4,800 participants**, profit **+500%** |
-| **Event & Logistics Coordinator** | BNCC Opening Season 2025 | Planned Expo, Launching & Co-Design series — **5,000 participants**, **650+ new members** recruited |
-
----
-
-### 📜 Certifications
-
-* 📗 **Intermediate Data Science** – Digital Talent Scholarship, Ministry of Communication & Digital Affairs (KOMDIGI), 2025
-* 📘 **SAP Analytics Cloud** – ASEAN Data Science Explorer, ASEAN Foundation, 2025
-* 📙 **Data Classification & Summarization with IBM Granite** – IBM × Hacktiv8 Indonesia, 2025
-
----
-
-### 📬 Let's Connect
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanwilliam156@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanwilliaml)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanwilliaml)
-[![Streamlit App](https://img.shields.io/badge/LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://placement-and-salary-app-avsdnomqyvcyaggtaaxqnp.streamlit.app)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=34D399&center=true&vCenter=true&width=700&height=60&lines=ivan_william.ipynb;Ivan+William+Lianata" alt="Ivan William Lianata" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=FBBF24&center=true&vCenter=true&width=700&height=30&lines=%3E%3E%3E+Data+Science+Student+%40+BINUS+University;%3E%3E%3E+2x+National+Data+Science+Champion;%3E%3E%3E+COO+%40+BNCC+Kemanggisan+%7C+250%2B+members;%3E%3E%3E+Learning+Swift+to+ship+real+apps+on+Apple+platforms" alt="tagline" />
 
 <br/>
 
-<i>"I care about work that genuinely reaches people."</i>
+<a href="https://linkedin.com/in/ivanwilliaml"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=34D399&labelColor=0d1117" /></a>
+<a href="mailto:ivanwilliam156@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat&logo=gmail&logoColor=34D399&labelColor=0d1117" /></a>
+<a href="https://placement-and-salary-app-avsdnomqyvcyaggtaaxqnp.streamlit.app"><img src="https://img.shields.io/badge/-Live%20App-0d1117?style=flat&logo=streamlit&logoColor=34D399&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=ivanwilliaml&label=views&color=34d399&style=flat&labelColor=0d1117" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0d1117&height=110&section=footer" width="100%" alt="Footer" />
+<br/>
+
+## `In [1]:` 👋 about_me.py
+
+```python
+class IvanWilliam:
+    def __init__(self):
+        self.name      = "Ivan William Lianata"
+        self.location  = "Jakarta, Indonesia 🇮🇩"
+        self.education = {"degree": "B.Sc. Data Science", "school": "BINUS University", "gpa": 3.94}
+        self.role      = "Chief Operating Officer @ BNCC Kemanggisan"   # 250+ members, 7 sub-divisions
+        self.team      = "Data Seekers — BINUS DS competition team"      # 1 of 12 selected from 28
+        self.research  = "Co-author: Random Forest on Imbalanced Data (Default vs Tuned)"
+
+    def focus(self) -> list[str]:
+        return ["Gradient Boosting", "Computer Vision", "Model Interpretability", "ML Deployment"]
+
+    def currently_learning(self) -> list[str]:
+        return ["Swift", "SwiftUI"]   # next stop: building apps that genuinely reach people 🍎
+
+    def motto(self) -> str:
+        return "I learn fastest by building and competing."
+```
+
+## `Out [1]:`
+
+```text
+>>> IvanWilliam().motto()
+'I learn fastest by building and competing.'
+>>> # ...a habit that has led to two national Data Science titles so far.
+```
+
+<br/>
+
+## `In [2]:` 🏆 leaderboard.sort_values("rank")
+
+| # | Competition | Organizer | Result | Weapon of choice |
+|:-:|:--|:--|:--|:--|
+| 🥇 | **Gammafest 2026** — Data Science Competition | IPB University | **1st Place · National** | LightGBM · XGBoost · CatBoost · SHAP |
+| 🥇 | **SHINE 2025** — Data Science Competition | BINUS University | **1st Place · National** | Scikit-learn · Feature Engineering |
+| 🏅 | **FindIT 2026** — Data Analytics | Universitas Gadjah Mada | **Top 15 / 300+ teams** | ConvNeXt · GeM Pooling · TTA |
+| 🏅 | **COMPFEST 17** — Data Science Academy | Universitas Indonesia | **Top 10 / 200 teams** | — |
+| 🏅 | **Techfest** — Data Analytics | HIMTI BINUS | **Top 5** | — |
+| 🏅 | **Data Clash** | Neurontara | **Top 10** | — |
+| 🎯 | **Samsung Solve for Tomorrow 2025** | Samsung | Semifinalist | — |
+| 🎯 | **Makarapreneur** — Business Plan | — | Semifinalist | — |
+
+<br/>
+
+## `In [3]:` 🔬 featured_experiments
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ Football Match Outcome Prediction
+`🥇 1st Place · Gammafest 2026 · team of 3`
+
+**Pipeline**
+- Decay-weighted feature engineering
+- Poisson-based LightGBM / XGBoost / CatBoost
+- Simplex blending + pseudo-labeling
+- Bayes-optimal score discretization
+
+**My part** → feature engineering, model selection, pseudo-labeling pipeline.
+**What won it** → iterating on **SHAP-driven error analysis**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Deepfake Liveness Detection
+`🏅 Top 15 / 300+ · FindIT 2026 · team of 3`
+
+**Pipeline**
+- ConvNeXt backbone + GeM Pooling
+- Per-class augmentation derived from EDA
+- Test-Time Augmentation
+- Out-of-Fold inference
+
+**Key insight** → detect liveness via **micro-texture**, not facial shape.
+**Result** → **96.9 %** test accuracy.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/ivanwilliaml/placement-and-salary-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=placement-and-salary-app&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9&border_color=30363d" height="130" /></a>
+<a href="https://github.com/ivanwilliaml/credit-score-prediction-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=credit-score-prediction-aws&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9&border_color=30363d" height="130" /></a>
+<a href="https://github.com/ivanwilliaml/SentimentAnalysis_UsingGranite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=SentimentAnalysis_UsingGranite&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9&border_color=30363d" height="130" /></a>
+
+🚀 **Deployed:** [Student Placement & Salary Predictor](https://placement-and-salary-app-avsdnomqyvcyaggtaaxqnp.streamlit.app) — LightGBM / Random Forest on Streamlit
+
+</div>
+
+<br/>
+
+## `In [4]:` 🧰 import stack
+
+<div align="center">
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,pytorch,sklearn,aws,git,github,bash,swift,figma&perline=12&theme=dark" alt="stack" /></a>
+
+</div>
+
+<br/>
+
+| | |
+|:--|:--|
+| 🧠 **Models** | LightGBM · XGBoost · CatBoost · Random Forest · CNNs / ConvNeXt · Scikit-learn |
+| 🔧 **Tuning & XAI** | Optuna · SHAP · Feature Engineering · Cross-Validation · Pseudo-labeling · TTA |
+| 📊 **Data** | Python · R · SQL · Statistics · Pandas · Visualization · SAP Analytics Cloud · Excel |
+| ☁️ **Ship** | Streamlit · AWS (EC2, SageMaker) · Jupyter / Kaggle · Git & GitHub |
+| 🤖 **LLM** | IBM Granite · Prompt Engineering |
+| 🍎 **Learning** | Swift · SwiftUI · Xcode |
+
+<br/>
+
+## `In [5]:` 📈 git.describe()
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwilliaml&theme=github_dark" width="100%" alt="profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanwilliaml&theme=github_dark&exclude=php,html,css" width="49%" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanwilliaml&theme=github_dark&exclude=php,html,css" width="49%" alt="most commit language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanwilliaml&theme=github_dark" width="49%" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivanwilliaml&theme=github_dark&utcOffset=7" width="49%" alt="productive time" />
+
+<img src="https://raw.githubusercontent.com/ivanwilliaml/ivanwilliaml/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
+
+</div>
+
+<br/>
+
+## `In [6]:` 🧑‍💼 leadership.head()
+
+<details>
+<summary><b>Chief Operating Officer (Regional Head)</b> — BNCC Kemanggisan · Sep 2025 – Present</summary>
+<br/>
+
+- Set the region's strategic direction and run day-to-day ops across **7 sub-divisions** — 29 management committee & 73 activists.
+- Main link between BNCC and BINUS — keeping the region aligned with university policy.
+- Oversaw leadership training for **100+ activists** across Bandung, Alam Sutera, Kemanggisan & Malang campuses.
+- Started a bi-weekly transition sync between outgoing and incoming exec committees → smoother handover.
+
+</details>
+
+<details>
+<summary><b>Person in Charge</b> — BNCC CSR 2025 · <i>"Level Up Your Learning Game with AI"</i> · May – Sep 2025</summary>
+<br/>
+
+- Led a **36-person committee** across 5 divisions to run a national AI seminar (speakers: Agatha Chelsea, Hafiz Kasman).
+- Pivoted the speaker/partnership strategy after initial plans fell through.
+- Used daily CSV exports of registration data to drive targeted outreach → **5,800 registrants · 4,800 participants** (2.3× prior year) · profit **+500 %**.
+
+</details>
+
+<details>
+<summary><b>General Treasurer (Founding Board)</b> — BINUS Bind Career · 2026 – Present</summary>
+<br/>
+
+- Helped launch a new student research & innovation org; built its financial system and budget from the ground up.
+
+</details>
+
+<details>
+<summary><b>Event & Logistics Coordinator</b> — BNCC Opening Season 2025</summary>
+<br/>
+
+- Planned the entire BOS series (Expo, Launching, Co-Design) — **5,000 participants**, **650+ new members** recruited.
+
+</details>
+
+<details>
+<summary><b>Mentorship & Community</b></summary>
+<br/>
+
+- 🎓 **SASC Scholarship Mentor** — BINUS (selected from 1,000+ applicants); mentored 6 students across two cycles.
+- 🧭 **Freshmen Leader & Partner** — guided 33 freshmen through their first-year transition.
+- ➗ **Volunteer Math Teacher** — Teach For Indonesia, Grade 5.
+- 🛡️ **Student Ethics Ambassador 2025** — selected by BINUS Research Office.
+
+</details>
+
+<br/>
+
+## `In [7]:` 📜 certifications
+
+```yaml
+- Intermediate Data Science        : Digital Talent Scholarship · KOMDIGI · 2025
+- SAP Analytics Cloud              : ASEAN Data Science Explorer · ASEAN Foundation · 2025
+- Data Classification with Granite : IBM × Hacktiv8 Indonesia · 2025
+```
+
+<br/>
+
+## `Out [∞]:` 📬 contact
+
+```text
+>>> ivan.contact()
+{
+  "email":    "ivanwilliam156@gmail.com",
+  "linkedin": "linkedin.com/in/ivanwilliaml",
+  "github":   "github.com/ivanwilliaml",
+  "status":   "open to collaborate on ML, data & app projects"
+}
+```
+
+<div align="center">
+<sub><code>kernel: python3</code> · <code>status: always training 🧠</code></sub>
+</div>
