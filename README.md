@@ -98,9 +98,9 @@ End-to-end computer-vision pipeline: **ConvNeXt + GeM Pooling** with a per-class
 </table>
 
 <p align="center">
-  <a href="https://github.com/ivanwilliaml/placement-and-salary-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=placement-and-salary-app&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&border_color=1E3A8A" height="125" /></a>
-  <a href="https://github.com/ivanwilliaml/credit-score-prediction-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=credit-score-prediction-aws&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&border_color=1E3A8A" height="125" /></a>
-  <a href="https://github.com/ivanwilliaml/SentimentAnalysis_UsingGranite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanwilliaml&repo=SentimentAnalysis_UsingGranite&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&border_color=1E3A8A" height="125" /></a>
+  <a href="https://github.com/ivanwilliaml/placement-and-salary-app"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=placement-and-salary-app&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&border_color=1E3A8A" height="125" /></a>
+  <a href="https://github.com/ivanwilliaml/credit-score-prediction-aws"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=credit-score-prediction-aws&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&border_color=1E3A8A" height="125" /></a>
+  <a href="https://github.com/ivanwilliaml/SentimentAnalysis_UsingGranite"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=SentimentAnalysis_UsingGranite&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&border_color=1E3A8A" height="125" /></a>
 </p>
 
 <p align="center">
@@ -241,8 +241,8 @@ End-to-end computer-vision pipeline: **ConvNeXt + GeM Pooling** with a per-class
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanwilliaml&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&ring_color=FACC15" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwilliaml&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=FACC15&text_color=E2E8F0&hide=php,html,css" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanwilliaml&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1F3A&title_color=FACC15&icon_color=A78BFA&text_color=E2E8F0&ring_color=FACC15" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivanwilliaml&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=FACC15&text_color=E2E8F0&hide=php,html,css" height="165" />
 </p>
 
 <p align="center">
@@ -250,7 +250,7 @@ End-to-end computer-vision pipeline: **ConvNeXt + GeM Pooling** with a per-class
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanwilliaml&radius=12&hide_border=true&area=true&bg_color=0B1F3A&color=E2E8F0&line=FACC15&point=A78BFA&area_color=1E3A8A&title_color=FACC15" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwilliaml&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
