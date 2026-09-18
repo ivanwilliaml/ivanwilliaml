@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img">
+  
+  <defs>
+    <linearGradient id="bg-pj" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060D1F"/><stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="glass-pj" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="stroke-pj" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="accent-pj" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FACC15"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="blur-pj" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <filter id="shadow-pj" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="272" rx="28" fill="url(#bg-pj)"/>
+  <clipPath id="clip-pj"><rect width="1200" height="272" rx="28"/></clipPath>
+  <g clip-path="url(#clip-pj)">
+  <circle cx="300" cy="330" r="200" fill="#2563EB" opacity="0.45" filter="url(#blur-pj)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 40 -30; 0 0" dur="16s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="900" cy="0" r="200" fill="#7C3AED" opacity="0.4" filter="url(#blur-pj)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -40 30; 0 0" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="600" cy="165" r="120" fill="#FACC15" opacity="0.22" filter="url(#blur-pj)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 20; 0 0" dur="19s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+    <!-- fine grid for depth -->
+    <path d="M0 0V272 M40 0V272 M80 0V272 M120 0V272 M160 0V272 M200 0V272 M240 0V272 M280 0V272 M320 0V272 M360 0V272 M400 0V272 M440 0V272 M480 0V272 M520 0V272 M560 0V272 M600 0V272 M640 0V272 M680 0V272 M720 0V272 M760 0V272 M800 0V272 M840 0V272 M880 0V272 M920 0V272 M960 0V272 M1000 0V272 M1040 0V272 M1080 0V272 M1120 0V272 M1160 0V272 M0 0H1200 M0 40H1200 M0 80H1200 M0 120H1200 M0 160H1200 M0 200H1200 M0 240H1200"
+      stroke="#FFFFFF" stroke-opacity="0.025" stroke-width="1"/>
+  </g>
+  
+  <g filter="url(#shadow-pj)">
+    <rect x="30.0" y="24" width="560.0" height="224" rx="24" fill="url(#glass-pj)"
+      stroke="url(#stroke-pj)" stroke-width="1.2"/>
+    <rect x="31.5" y="25.5" width="557.0" height="100.8" rx="23"
+      fill="#FFFFFF" opacity="0.045"/>
+  </g><text x="62.0" y="74" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">⚽ Football Match Outcome Prediction</text>
+  <g>
+    <rect x="62.0" y="92" width="407" height="28" rx="14.0" fill="#FFFFFF" fill-opacity="0.12"
+      stroke="#FACC15" stroke-opacity="0.28" stroke-width="1"/>
+    <text x="265.5" y="110.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">🥇 1st Place · National — Gammafest 2026, IPB University</text>
+  </g><circle cx="70.0" cy="155" r="3.5" fill="#FACC15"/><text x="86.0" y="160" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">Decay-weighted features · Poisson LightGBM / XGBoost / CatBoost</text><circle cx="70.0" cy="189" r="3.5" fill="#FACC15"/><text x="86.0" y="194" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">Simplex blending · pseudo-labeling · Bayes-optimal discretization</text><circle cx="70.0" cy="223" r="3.5" fill="#FACC15"/><text x="86.0" y="228" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">Won by iterating on SHAP-driven error analysis</text>
+  <g filter="url(#shadow-pj)">
+    <rect x="610.0" y="24" width="560.0" height="224" rx="24" fill="url(#glass-pj)"
+      stroke="url(#stroke-pj)" stroke-width="1.2"/>
+    <rect x="611.5" y="25.5" width="557.0" height="100.8" rx="23"
+      fill="#FFFFFF" opacity="0.045"/>
+  </g><text x="642.0" y="74" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">🕵️ Deepfake Liveness Detection</text>
+  <g>
+    <rect x="642.0" y="92" width="372" height="28" rx="14.0" fill="#FFFFFF" fill-opacity="0.12"
+      stroke="#C4B5FD" stroke-opacity="0.28" stroke-width="1"/>
+    <text x="827.885" y="110.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">Top 15 of 300+ teams — FindIT 2026 Data Analytics</text>
+  </g><circle cx="650.0" cy="155" r="3.5" fill="#C4B5FD"/><text x="666.0" y="160" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">ConvNeXt + GeM Pooling · per-class augmentation from EDA</text><circle cx="650.0" cy="189" r="3.5" fill="#C4B5FD"/><text x="666.0" y="194" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">Liveness via micro-texture, not facial shape</text><circle cx="650.0" cy="223" r="3.5" fill="#C4B5FD"/><text x="666.0" y="228" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">96.9% test accuracy with TTA + Out-of-Fold inference</text>
+</svg>

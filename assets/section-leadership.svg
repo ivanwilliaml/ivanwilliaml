@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img">
+  
+  <defs>
+    <linearGradient id="bg-sc-leadership" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060D1F"/><stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="glass-sc-leadership" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="stroke-sc-leadership" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="accent-sc-leadership" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FACC15"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="blur-sc-leadership" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <filter id="shadow-sc-leadership" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="84" rx="28" fill="url(#bg-sc-leadership)"/>
+  <clipPath id="clip-sc-leadership"><rect width="1200" height="84" rx="28"/></clipPath>
+  <g clip-path="url(#clip-sc-leadership)">
+  <circle cx="80" cy="42" r="120" fill="#2563EB" opacity="0.45" filter="url(#blur-sc-leadership)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 30 0; 0 0" dur="12s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="1120" cy="42" r="110" fill="#7C3AED" opacity="0.4" filter="url(#blur-sc-leadership)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -30 0; 0 0" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+    <!-- fine grid for depth -->
+    <path d="M0 0V84 M40 0V84 M80 0V84 M120 0V84 M160 0V84 M200 0V84 M240 0V84 M280 0V84 M320 0V84 M360 0V84 M400 0V84 M440 0V84 M480 0V84 M520 0V84 M560 0V84 M600 0V84 M640 0V84 M680 0V84 M720 0V84 M760 0V84 M800 0V84 M840 0V84 M880 0V84 M920 0V84 M960 0V84 M1000 0V84 M1040 0V84 M1080 0V84 M1120 0V84 M1160 0V84 M0 0H1200 M0 40H1200 M0 80H1200"
+      stroke="#FFFFFF" stroke-opacity="0.025" stroke-width="1"/>
+  </g>
+  
+  <g>
+    <rect x="20" y="12" width="1160" height="60" rx="18" fill="url(#glass-sc-leadership)"
+      stroke="url(#stroke-sc-leadership)" stroke-width="1.2"/>
+    <rect x="21.5" y="13.5" width="1157" height="27.0" rx="17"
+      fill="#FFFFFF" opacity="0.045"/>
+  </g>
+  <rect x="44" y="30" width="5" height="24" rx="2.5" fill="url(#accent-sc-leadership)"/>
+  <text x="66" y="50" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">🧑‍💼  Leadership &amp; Community</text>
+  <text x="1152" y="49" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B6C2D6" text-anchor="end" opacity="1" letter-spacing="0">click a role to expand</text>
+
+</svg>

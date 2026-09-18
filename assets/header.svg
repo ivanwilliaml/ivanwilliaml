@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img">
+  
+  <defs>
+    <linearGradient id="bg-hd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060D1F"/><stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="glass-hd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="stroke-hd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="accent-hd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FACC15"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="blur-hd" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <filter id="shadow-hd" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="url(#bg-hd)"/>
+  <clipPath id="clip-hd"><rect width="1200" height="380" rx="28"/></clipPath>
+  <g clip-path="url(#clip-hd)">
+  <circle cx="180" cy="90" r="210" fill="#2563EB" opacity="0.55" filter="url(#blur-hd)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 60 40; 0 0" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="1010" cy="80" r="190" fill="#7C3AED" opacity="0.55" filter="url(#blur-hd)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -50 50; 0 0" dur="17s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="620" cy="380" r="220" fill="#FACC15" opacity="0.35" filter="url(#blur-hd)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 30 -60; 0 0" dur="20s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="1150" cy="340" r="150" fill="#2563EB" opacity="0.45" filter="url(#blur-hd)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -40 -30; 0 0" dur="12s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+    <!-- fine grid for depth -->
+    <path d="M0 0V380 M40 0V380 M80 0V380 M120 0V380 M160 0V380 M200 0V380 M240 0V380 M280 0V380 M320 0V380 M360 0V380 M400 0V380 M440 0V380 M480 0V380 M520 0V380 M560 0V380 M600 0V380 M640 0V380 M680 0V380 M720 0V380 M760 0V380 M800 0V380 M840 0V380 M880 0V380 M920 0V380 M960 0V380 M1000 0V380 M1040 0V380 M1080 0V380 M1120 0V380 M1160 0V380 M0 0H1200 M0 40H1200 M0 80H1200 M0 120H1200 M0 160H1200 M0 200H1200 M0 240H1200 M0 280H1200 M0 320H1200 M0 360H1200"
+      stroke="#FFFFFF" stroke-opacity="0.025" stroke-width="1"/>
+  </g>
+  
+  <g filter="url(#shadow-hd)">
+    <rect x="90" y="60" width="1020" height="260" rx="28" fill="url(#glass-hd)"
+      stroke="url(#stroke-hd)" stroke-width="1.2"/>
+    <rect x="91.5" y="61.5" width="1017" height="117.0" rx="27"
+      fill="#FFFFFF" opacity="0.045"/>
+  </g>
+  <rect x="130" y="104" width="56" height="5" rx="2.5" fill="url(#accent-hd)"/>
+  <text x="130" y="158" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="-0.5">Ivan William Lianata</text>
+  <text x="130" y="194" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#FACC15" text-anchor="start" opacity="1" letter-spacing="0">Data Science Student @ BINUS University  ·  GPA 3.94 / 4.00</text>
+  <text x="130" y="226" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#B6C2D6" text-anchor="start" opacity="1" letter-spacing="0">I learn fastest by building and competing — and I'm as comfortable leading people as I am training models.</text>
+  
+  <g>
+    <rect x="130" y="250" width="291" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.1"
+      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
+    <text x="275.55" y="271.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">🏆 2× National Data Science Champion</text>
+  </g>
+  <g>
+    <rect x="433.1" y="250" width="227" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.1"
+      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
+    <text x="546.8000000000001" y="271.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">🧑‍💼 COO @ BNCC Kemanggisan</text>
+  </g>
+  <g>
+    <rect x="672.5" y="250" width="143" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.1"
+      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
+    <text x="744.06" y="271.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">🔬 ML Researcher</text>
+  </g>
+  <g>
+    <rect x="827.62" y="250" width="178" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.1"
+      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
+    <text x="916.61" y="271.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">📍 Jakarta, Indonesia</text>
+  </g>
+  <!-- animated status dot -->
+  <circle cx="1058" cy="104" r="6" fill="#FACC15">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1044" y="109" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#B6C2D6" text-anchor="end" opacity="1" letter-spacing="0">open to collaborate</text>
+
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img">
+  
+  <defs>
+    <linearGradient id="bg-ft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060D1F"/><stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="glass-ft" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="stroke-ft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="accent-ft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FACC15"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="blur-ft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <filter id="shadow-ft" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="130" rx="28" fill="url(#bg-ft)"/>
+  <clipPath id="clip-ft"><rect width="1200" height="130" rx="28"/></clipPath>
+  <g clip-path="url(#clip-ft)">
+  <circle cx="200" cy="130" r="170" fill="#FACC15" opacity="0.22" filter="url(#blur-ft)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 40 0; 0 0" dur="16s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="1000" cy="0" r="170" fill="#7C3AED" opacity="0.4" filter="url(#blur-ft)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -40 0; 0 0" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+  <circle cx="600" cy="65" r="160" fill="#2563EB" opacity="0.35" filter="url(#blur-ft)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 30; 0 0" dur="12s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  </circle>
+    <!-- fine grid for depth -->
+    <path d="M0 0V130 M40 0V130 M80 0V130 M120 0V130 M160 0V130 M200 0V130 M240 0V130 M280 0V130 M320 0V130 M360 0V130 M400 0V130 M440 0V130 M480 0V130 M520 0V130 M560 0V130 M600 0V130 M640 0V130 M680 0V130 M720 0V130 M760 0V130 M800 0V130 M840 0V130 M880 0V130 M920 0V130 M960 0V130 M1000 0V130 M1040 0V130 M1080 0V130 M1120 0V130 M1160 0V130 M0 0H1200 M0 40H1200 M0 80H1200 M0 120H1200"
+      stroke="#FFFFFF" stroke-opacity="0.025" stroke-width="1"/>
+  </g>
+  
+  <g>
+    <rect x="30" y="24" width="1140" height="82" rx="22" fill="url(#glass-ft)"
+      stroke="url(#stroke-ft)" stroke-width="1.2"/>
+    <rect x="31.5" y="25.5" width="1137" height="36.9" rx="21"
+      fill="#FFFFFF" opacity="0.045"/>
+  </g>
+  <text x="600.0" y="62" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">“I care about work that genuinely reaches people.”</text>
+  <text x="600.0" y="88" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B6C2D6" text-anchor="middle" opacity="1" letter-spacing="0">ivanwilliam156@gmail.com  ·  linkedin.com/in/ivanwilliaml  ·  github.com/ivanwilliaml</text>
+
+</svg>
