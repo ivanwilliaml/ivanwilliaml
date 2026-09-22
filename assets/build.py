@@ -108,7 +108,7 @@ def header():
 def stats():
     uid, h = "st", 130
     blobs = blob(150, 130, 200, BLUE, uid, 15, 40, 0, 0.35) + blob(1050, 0, 200, PURPLE, uid, 18, -40, 0, 0.3)
-    items = [("3×", "National Titles"), ("3.94", "GPA / 4.00"), ("250+", "Members Led"), ("16", "Projects on GitHub")]
+    items = [("3×", "National Titles"), ("3.94", "GPA / 4.00"), ("250+", "Members Led"), ("27", "Projects on GitHub")]
     n, gap, m = len(items), 16, 30
     cw = (W - 2 * m - gap * (n - 1)) / n
     body = ""
@@ -117,32 +117,6 @@ def stats():
         body += glass(x, 20, cw, 90, uid, rx=18)
         body += text(x + cw / 2, 62, num, 28, 700, TEXT, "middle")
         body += text(x + cw / 2, 88, lbl, 13, 500, MUTED, "middle")
-    return svg(h, uid, body, blobs)
-
-
-# ---- projects ----------------------------------------------------------------
-def projects():
-    uid, h = "pj", 236
-    blobs = blob(200, 240, 220, BLUE, uid, 17, 40, -30, 0.35) + blob(1000, 0, 220, PURPLE, uid, 15, -40, 30, 0.3)
-    cards = [
-        ("Football Match Outcome Prediction", "1st Place · National — Gammafest 2026",
-         ["Poisson-based LightGBM / XGBoost / CatBoost with decay-weighted features",
-          "Simplex blending, pseudo-labeling, SHAP-driven error analysis"]),
-        ("Deepfake Liveness Detection", "Top 15 of 300+ — FindIT 2026",
-         ["ConvNeXt + GeM Pooling on micro-texture, augmentation derived from EDA",
-          "96.9% test accuracy with TTA and out-of-fold inference"]),
-    ]
-    m, gap = 30, 16
-    cw = (W - 2 * m - gap) / 2
-    body = ""
-    for i, (title, badge, lines) in enumerate(cards):
-        x = m + i * (cw + gap)
-        body += glass(x, 20, cw, h - 40, uid, rx=20)
-        body += f'<rect x="{x+32}" y="{56}" width="32" height="3" rx="1.5" fill="url(#accent-{uid})"/>'
-        body += text(x + 32, 92, title, 21, 700, TEXT)
-        body += text(x + 32, 118, badge, 14, 500, BLUE_SOFT)
-        for j, ln in enumerate(lines):
-            body += text(x + 32, 156 + j * 26, ln, 14, 400, MUTED)
     return svg(h, uid, body, blobs)
 
 
@@ -172,6 +146,5 @@ if __name__ == "__main__":
         old.unlink()
     (OUT / "header.svg").write_text(header(), encoding="utf-8")
     (OUT / "stats.svg").write_text(stats(), encoding="utf-8")
-    (OUT / "projects.svg").write_text(projects(), encoding="utf-8")
     (OUT / "skills.svg").write_text(skills(), encoding="utf-8")
     print("built", len(list(OUT.glob("*.svg"))), "svgs")
