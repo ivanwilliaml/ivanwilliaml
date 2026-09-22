@@ -15,14 +15,17 @@ I'm a Data Science student at BINUS University who learns by building and compet
 | FindIT 2026 Data Analytics | Top 15 of 300+ teams |
 | COMPFEST 17 · Universitas Indonesia | Top 10 of 200 teams |
 
-**Recent projects**
+**Top projects**
 
-<p align="center">
-  <a href="https://github.com/ivanwilliaml/dataquest-2026"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=dataquest-2026&bg_color=0B1226&title_color=60A5FA&icon_color=94A3B8&text_color=E2E8F0&border_color=1E293B" height="120" /></a>
-  <a href="https://github.com/ivanwilliaml/minetoday-2026"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=minetoday-2026&bg_color=0B1226&title_color=60A5FA&icon_color=94A3B8&text_color=E2E8F0&border_color=1E293B" height="120" /></a>
-  <a href="https://github.com/ivanwilliaml/ara-2026-dropnoise"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=ara-2026-dropnoise&bg_color=0B1226&title_color=60A5FA&icon_color=94A3B8&text_color=E2E8F0&border_color=1E293B" height="120" /></a>
-  <a href="https://github.com/ivanwilliaml/disaster-image-classification"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ivanwilliaml&repo=disaster-image-classification&bg_color=0B1226&title_color=60A5FA&icon_color=94A3B8&text_color=E2E8F0&border_color=1E293B" height="120" /></a>
-</p>
+| Project | Highlight | Link |
+|:--|:--|:-:|
+| Gammafest 2026 — BayeScore Reranker | 🥇 1st Place National — asymmetric reranker for expected-goal prediction | [Case Study](https://ivanwilliaml.vercel.app/projects/gammafest-2026) |
+| When Faces Lie — Face Anti-Spoofing | Top 15 National — ConvNeXtV2 attack-type classifier (FindIT 2026) | [Case Study](https://ivanwilliaml.vercel.app/projects/findit-2026) |
+| TRACE — Forged Headline Detector | From-scratch replaced-token detector, 0.9578 macro-F1 | [GitHub](https://github.com/ivanwilliaml/ifest) |
+| SIGAP-Longsor | Landslide early-warning dashboard for 519 districts, 30m-resolution | [GitHub](https://github.com/ivanwilliaml/datathonProduct) |
+| Credit Score Classifier & Deployment | Stacked ensemble deployed on Streamlit with Face API | [GitHub](https://github.com/ivanwilliaml/credit-score-app) |
+
+<p align="center"><a href="https://ivanwilliaml.vercel.app/">ivanwilliaml.vercel.app</a></p>
 
 <img src="assets/skills.svg" width="100%" alt="Python · R · SQL · Scikit-learn · LightGBM · XGBoost · CatBoost · ConvNeXt · Optuna · SHAP · Statistics · Streamlit · AWS · Jupyter · Git" />
 
