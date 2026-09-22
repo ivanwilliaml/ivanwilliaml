@@ -39,14 +39,14 @@
   <text x="120" y="140" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#F1F5F9" text-anchor="start" letter-spacing="-0.5">Ivan William Lianata</text>
   <text x="120" y="170" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#60A5FA" text-anchor="start" letter-spacing="0">Data Science Student @ BINUS University  ·  GPA 3.94 / 4.00</text>
   
-  <rect x="120" y="188" width="259" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+  <rect x="120" y="188" width="244" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
     stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
-  <text x="249.31" y="207.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">2× National Data Science Champion</text>
-  <rect x="388.62" y="188" width="183" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+  <text x="242.16" y="207.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">3× National Data Science Titles</text>
+  <rect x="374.32" y="188" width="183" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
     stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
-  <text x="479.97" y="207.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">COO · BNCC Kemanggisan</text>
-  <rect x="581.32" y="188" width="154" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+  <text x="465.67" y="207.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">COO · BNCC Kemanggisan</text>
+  <rect x="567.02" y="188" width="154" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
     stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
-  <text x="658.11" y="207.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Jakarta, Indonesia</text>
+  <text x="643.81" y="207.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Jakarta, Indonesia</text>
 
 </svg>

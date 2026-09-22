@@ -91,7 +91,7 @@ def header():
              + blob(1060, 300, 240, PURPLE, uid, 19, -50, -40, 0.35))
     cx, cy, cw, ch = 80, 50, W - 160, 200
     pills, px = "", cx + 40
-    for lbl in ["2× National Data Science Champion", "COO · BNCC Kemanggisan", "Jakarta, Indonesia"]:
+    for lbl in ["3× National Data Science Titles", "COO · BNCC Kemanggisan", "Jakarta, Indonesia"]:
         w, s = pill(px, cy + 138, lbl, uid)
         pills += s
         px += w + 10
@@ -108,7 +108,7 @@ def header():
 def stats():
     uid, h = "st", 130
     blobs = blob(150, 130, 200, BLUE, uid, 15, 40, 0, 0.35) + blob(1050, 0, 200, PURPLE, uid, 18, -40, 0, 0.3)
-    items = [("2×", "National Champion"), ("3.94", "GPA / 4.00"), ("250+", "Members Led"), ("16", "Projects on GitHub")]
+    items = [("3×", "National Titles"), ("3.94", "GPA / 4.00"), ("250+", "Members Led"), ("16", "Projects on GitHub")]
     n, gap, m = len(items), 16, 30
     cw = (W - 2 * m - gap * (n - 1)) / n
     body = ""

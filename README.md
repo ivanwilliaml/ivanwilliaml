@@ -1,8 +1,8 @@
 <img src="assets/header.svg" width="100%" alt="Ivan William Lianata — Data Science Student @ BINUS University" />
 
-<img src="assets/stats.svg" width="100%" alt="2x national champion · GPA 3.94 · 250+ members led · 16 projects on GitHub" />
+<img src="assets/stats.svg" width="100%" alt="3x national titles · GPA 3.94 · 250+ members led · 16 projects on GitHub" />
 
-I'm a Data Science student at BINUS University who learns by building and competing — two national Data Science titles so far. I also lead BNCC Kemanggisan (250+ members).
+I'm a Data Science student at BINUS University who learns by building and competing — three national Data Science titles so far. I also lead BNCC Kemanggisan (250+ members).
 
 **Recent competitions**
 
