@@ -1,229 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="592" viewBox="0 0 1200 592" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152" role="img">
   
   <defs>
     <linearGradient id="bg-sk" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#060D1F"/><stop offset="1" stop-color="#0B1F3A"/>
+      <stop offset="0" stop-color="#070B14"/><stop offset="1" stop-color="#0B1226"/>
     </linearGradient>
     <linearGradient id="glass-sk" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
     </linearGradient>
     <linearGradient id="stroke-sk" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.30"/>
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.08"/>
     </linearGradient>
     <linearGradient id="accent-sk" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FACC15"/><stop offset="1" stop-color="#7C3AED"/>
+      <stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
     <filter id="blur-sk" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="55"/>
-    </filter>
-    <filter id="shadow-sk" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+      <feGaussianBlur stdDeviation="70"/>
     </filter>
   </defs>
-  <rect width="1200" height="592" rx="28" fill="url(#bg-sk)"/>
-  <clipPath id="clip-sk"><rect width="1200" height="592" rx="28"/></clipPath>
+  <clipPath id="clip-sk"><rect width="1200" height="152" rx="24"/></clipPath>
   <g clip-path="url(#clip-sk)">
-  <circle cx="100" cy="80" r="180" fill="#2563EB" opacity="0.4" filter="url(#blur-sk)">
-    <animateTransform attributeName="transform" type="translate"
-      values="0 0; 30 40; 0 0" dur="15s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <rect width="1200" height="152" fill="url(#bg-sk)"/>
+  <circle cx="100" cy="152" r="180" fill="#2563EB" opacity="0.3" filter="url(#blur-sk)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 30 0; 0 0"
+      dur="14s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
   </circle>
-  <circle cx="1100" cy="512" r="180" fill="#7C3AED" opacity="0.4" filter="url(#blur-sk)">
-    <animateTransform attributeName="transform" type="translate"
-      values="0 0; -30 -40; 0 0" dur="17s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+  <circle cx="1100" cy="0" r="180" fill="#7C3AED" opacity="0.28" filter="url(#blur-sk)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -30 0; 0 0"
+      dur="16s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
   </circle>
-  <circle cx="700" cy="296.0" r="140" fill="#FACC15" opacity="0.18" filter="url(#blur-sk)">
-    <animateTransform attributeName="transform" type="translate"
-      values="0 0; 20 0; 0 0" dur="21s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
-  </circle>
-    <!-- fine grid for depth -->
-    <path d="M0 0V592 M40 0V592 M80 0V592 M120 0V592 M160 0V592 M200 0V592 M240 0V592 M280 0V592 M320 0V592 M360 0V592 M400 0V592 M440 0V592 M480 0V592 M520 0V592 M560 0V592 M600 0V592 M640 0V592 M680 0V592 M720 0V592 M760 0V592 M800 0V592 M840 0V592 M880 0V592 M920 0V592 M960 0V592 M1000 0V592 M1040 0V592 M1080 0V592 M1120 0V592 M1160 0V592 M0 0H1200 M0 40H1200 M0 80H1200 M0 120H1200 M0 160H1200 M0 200H1200 M0 240H1200 M0 280H1200 M0 320H1200 M0 360H1200 M0 400H1200 M0 440H1200 M0 480H1200 M0 520H1200 M0 560H1200"
-      stroke="#FFFFFF" stroke-opacity="0.025" stroke-width="1"/>
   </g>
+  <rect x="0.5" y="0.5" width="1199" height="151" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
   
-  <g>
-    <rect x="30" y="24" width="1140" height="144" rx="22" fill="url(#glass-sk)"
-      stroke="url(#stroke-sk)" stroke-width="1.2"/>
-    <rect x="31.5" y="25.5" width="1137" height="64.8" rx="21"
-      fill="#FFFFFF" opacity="0.045"/>
-  </g><rect x="62" y="48" width="4" height="18" rx="2" fill="#FACC15"/><text x="76" y="63" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">Machine Learning &amp; AI</text>
-  <g>
-    <rect x="62" y="80" width="77" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="100.59" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">Python</text>
-  </g>
-  <g>
-    <rect x="149.18" y="80" width="123" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="210.87" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">Scikit-learn</text>
-  </g>
-  <g>
-    <rect x="282.56" y="80" width="96" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="330.32" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">LightGBM</text>
-  </g>
-  <g>
-    <rect x="388.08" y="80" width="87" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="431.5" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">XGBoost</text>
-  </g>
-  <g>
-    <rect x="484.91999999999996" y="80" width="94" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="531.6999999999999" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">CatBoost</text>
-  </g>
-  <g>
-    <rect x="588.48" y="80" width="129" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="653.1800000000001" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">Random Forest</text>
-  </g>
-  <g>
-    <rect x="727.88" y="80" width="138" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="797.06" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">CNN / ConvNeXt</text>
-  </g>
-  <g>
-    <rect x="876.24" y="80" width="77" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="914.83" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">Optuna</text>
-  </g>
-  <g>
-    <rect x="963.4200000000001" y="80" width="65" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="995.7800000000001" y="101.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">SHAP</text>
-  </g>
-  <g>
-    <rect x="62" y="120" width="176" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="149.8" y="141.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">Feature Engineering</text>
-  </g>
-  <g>
-    <rect x="247.6" y="120" width="116" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="305.58" y="141.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FACC15" text-anchor="middle" opacity="1" letter-spacing="0">IBM Granite</text>
-  </g>
-  <g>
-    <rect x="30" y="184" width="1140" height="104" rx="22" fill="url(#glass-sk)"
-      stroke="url(#stroke-sk)" stroke-width="1.2"/>
-    <rect x="31.5" y="185.5" width="1137" height="46.800000000000004" rx="21"
-      fill="#FFFFFF" opacity="0.045"/>
-  </g><rect x="62" y="208" width="4" height="18" rx="2" fill="#93C5FD"/><text x="76" y="223" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">Data &amp; Analytics</text>
-  <g>
-    <rect x="62" y="240" width="39" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="81.34" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">R</text>
-  </g>
-  <g>
-    <rect x="110.68" y="240" width="56" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="138.70000000000002" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">SQL</text>
-  </g>
-  <g>
-    <rect x="176.72" y="240" width="108" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="230.71" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">Statistics</text>
-  </g>
-  <g>
-    <rect x="294.7" y="240" width="168" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="378.65" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">Data Visualization</text>
-  </g>
-  <g>
-    <rect x="472.6" y="240" width="176" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="560.54" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">SAP Analytics Cloud</text>
-  </g>
-  <g>
-    <rect x="658.48" y="240" width="69" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="693.22" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">Excel</text>
-  </g>
-  <g>
-    <rect x="737.96" y="240" width="168" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="821.9100000000001" y="261.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#93C5FD" text-anchor="middle" opacity="1" letter-spacing="0">Prompt Engineering</text>
-  </g>
-  <g>
-    <rect x="30" y="304" width="1140" height="104" rx="22" fill="url(#glass-sk)"
-      stroke="url(#stroke-sk)" stroke-width="1.2"/>
-    <rect x="31.5" y="305.5" width="1137" height="46.800000000000004" rx="21"
-      fill="#FFFFFF" opacity="0.045"/>
-  </g><rect x="62" y="328" width="4" height="18" rx="2" fill="#C4B5FD"/><text x="76" y="343" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">Deployment &amp; Tools</text>
-  <g>
-    <rect x="62" y="360" width="100" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="112.14" y="381.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">Streamlit</text>
-  </g>
-  <g>
-    <rect x="172.28" y="360" width="87" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="215.84" y="381.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">AWS EC2</text>
-  </g>
-  <g>
-    <rect x="269.4" y="360" width="132" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="335.57" y="381.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">AWS SageMaker</text>
-  </g>
-  <g>
-    <rect x="411.74" y="360" width="85" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="454.18" y="381.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">Jupyter</text>
-  </g>
-  <g>
-    <rect x="506.62" y="360" width="77" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="545.21" y="381.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">Kaggle</text>
-  </g>
-  <g>
-    <rect x="593.8" y="360" width="120" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="653.81" y="381.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C4B5FD" text-anchor="middle" opacity="1" letter-spacing="0">Git &amp; GitHub</text>
-  </g>
-  <g>
-    <rect x="30" y="424" width="1140" height="144" rx="22" fill="url(#glass-sk)"
-      stroke="url(#stroke-sk)" stroke-width="1.2"/>
-    <rect x="31.5" y="425.5" width="1137" height="64.8" rx="21"
-      fill="#FFFFFF" opacity="0.045"/>
-  </g><rect x="62" y="448" width="4" height="18" rx="2" fill="#F8FAFC"/><text x="76" y="463" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC" text-anchor="start" opacity="1" letter-spacing="0">Professional</text>
-  <g>
-    <rect x="62" y="480" width="225" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="174.58" y="501.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Project &amp; Event Management</text>
-  </g>
-  <g>
-    <rect x="297.16" y="480" width="256" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="425.14000000000004" y="501.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Financial Planning &amp; Budgeting</text>
-  </g>
-  <g>
-    <rect x="563.1200000000001" y="480" width="248" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="687.2500000000001" y="501.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Research &amp; Scientific Writing</text>
-  </g>
-  <g>
-    <rect x="821.3800000000001" y="480" width="145" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="893.7800000000001" y="501.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Public Speaking</text>
-  </g>
-  <g>
-    <rect x="976.1800000000001" y="480" width="100" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="1026.3200000000002" y="501.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Mentoring</text>
-  </g>
-  <g>
-    <rect x="62" y="520" width="214" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="169.05" y="541.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Stakeholder Coordination</text>
-  </g>
-  <g>
-    <rect x="286.1" y="520" width="108" height="32" rx="16.0" fill="#FFFFFF" fill-opacity="0.09"
-      stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1"/>
-    <text x="340.09000000000003" y="541.04" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="middle" opacity="1" letter-spacing="0">Leadership</text>
-  </g>
+  <rect x="30" y="20" width="1140" height="112" rx="20" fill="url(#glass-sk)"
+    stroke="url(#stroke-sk)" stroke-width="1"/>
+  <rect x="62" y="52" width="72" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="97.905" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Python</text>
+  <rect x="143.81" y="52" width="36" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="161.84" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">R</text>
+  <rect x="189.87" y="52" width="52" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="215.96" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">SQL</text>
+  <rect x="252.05" y="52" width="115" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="309.40500000000003" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Scikit-learn</text>
+  <rect x="376.76" y="52" width="89" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="421.18" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">LightGBM</text>
+  <rect x="475.6" y="52" width="81" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="515.99" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">XGBoost</text>
+  <rect x="566.38" y="52" width="87" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="609.89" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">CatBoost</text>
+  <rect x="663.4" y="52" width="88" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="707.365" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">ConvNeXt</text>
+  <rect x="761.3299999999999" y="52" width="72" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="797.2349999999999" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Optuna</text>
+  <rect x="843.1399999999999" y="52" width="60" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="873.2599999999999" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">SHAP</text>
+  <rect x="913.3799999999999" y="52" width="100" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="963.5849999999999" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Statistics</text>
+  <rect x="1023.7899999999998" y="52" width="93" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="1070.4199999999998" y="71.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Streamlit</text>
+  <rect x="62" y="92" width="52" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="88.09" y="111.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">AWS</text>
+  <rect x="124.18" y="92" width="79" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="163.66000000000003" y="111.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Jupyter</text>
+  <rect x="213.14000000000001" y="92" width="50" height="30" rx="15.0" fill="#FFFFFF" fill-opacity="0.06"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="238.32000000000002" y="111.68" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F1F5F9" text-anchor="middle" letter-spacing="0">Git</text>
 </svg>
