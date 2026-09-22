@@ -108,7 +108,7 @@ def header():
 def stats():
     uid, h = "st", 130
     blobs = blob(150, 130, 200, BLUE, uid, 15, 40, 0, 0.35) + blob(1050, 0, 200, PURPLE, uid, 18, -40, 0, 0.3)
-    items = [("2×", "National Champion"), ("3.94", "GPA / 4.00"), ("250+", "Members Led"), ("96.9%", "CV Test Accuracy")]
+    items = [("2×", "National Champion"), ("3.94", "GPA / 4.00"), ("250+", "Members Led"), ("16", "Projects on GitHub")]
     n, gap, m = len(items), 16, 30
     cw = (W - 2 * m - gap * (n - 1)) / n
     body = ""

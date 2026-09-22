@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="Ivan William Lianata — Data Science Student @ BINUS University" />
 
-<img src="assets/stats.svg" width="100%" alt="2x national champion · GPA 3.94 · 250+ members led · 96.9% CV accuracy" />
+<img src="assets/stats.svg" width="100%" alt="2x national champion · GPA 3.94 · 250+ members led · 16 projects on GitHub" />
 
 I'm a Data Science student at BINUS University who learns by building and competing — two national Data Science titles so far. I also lead BNCC Kemanggisan (250+ members).
 
@@ -10,6 +10,8 @@ I'm a Data Science student at BINUS University who learns by building and compet
 |:--|:--|
 | Gammafest 2026 · IPB University | 🥇 1st Place — National |
 | SHINE 2025 · BINUS University | 🥇 1st Place — National |
+| DataQuest – Objective Quest | 🥉 3rd Place |
+| Sebelas Maret Statistics Fair · Data Science Competition | Top 5 Finalist |
 | FindIT 2026 Data Analytics | Top 15 of 300+ teams |
 | COMPFEST 17 · Universitas Indonesia | Top 10 of 200 teams |
 
